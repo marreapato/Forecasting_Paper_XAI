@@ -36,7 +36,3 @@ To reproduce the results from the paper, please follow the steps below in the sp
 ## Notes
 
 - The results obtained from running these notebooks may vary due to the inherent randomness in the models and the data processing steps. This variability is expected and is part of the model evaluation process.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
