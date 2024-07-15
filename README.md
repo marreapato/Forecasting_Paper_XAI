@@ -9,6 +9,7 @@ This repository contains the code and resources for the paper titled "Explaining
 - **DeepModels.ipynb**: Notebook for training deep learning models and evaluating their error metrics.
 - **Tcrossvalidation_Evaluation.ipynb**: Notebook for performing cross-validation to assess the models' efficiency and prevent overfitting.
 - **EvaluatingExplanaitons.ipynb**: Notebook for evaluating the consistency of explanations, given the inherent randomness in the models.
+- **Trying_Models_classification.ipynb**: Notebook for classification approach to explainability.
 
 ## Execution Order
 
